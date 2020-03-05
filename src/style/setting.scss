@@ -1,0 +1,61 @@
+html{
+    font-size: 10px;
+    // scroll-behavior: smooth; 
+}
+
+html , body{
+    position: relative;
+    z-index: -1000;
+
+}
+//font-size
+$s:1.6rem;
+$m:2.0rem;
+$l:2.4rem;
+$xl:2.8rem;
+$xxl:3.2rem;
+$xxl:3.6rem;
+
+
+//flex 水平 垂直 居中
+@mixin flex_c_c {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;      
+
+    // border :1px solid black;
+}
+
+.container{
+    width: 80%;
+    // border: 1px solid black;
+    margin: 0 auto;
+}
+
+img{
+    display: block;
+}
+
+
+///毛玻璃
+// @include backdrop
+
+@mixin backdrop {
+    backdrop-filter: blur(20px) grayscale(20%);
+}
+
+
+
+style-cisdamage{
+    color: #E5C962;
+}
+.utility{
+    color: #0066CC;
+}

@@ -1,0 +1,197 @@
+{
+    "strings": {
+
+        "COMMANDO": {
+            "COMMANDO_BODY_NAME": "指挥官",
+            "COMMANDO_PRIMARY_NAME": "双击",
+
+            "COMMANDO_PRIMARY_DESCRIPTION": "连续射击两次，造成<style=cIsDamage>2x90%的伤害</style>。",
+            "COMMANDO_SECONDARY_NAME": "相位子弹",
+            "COMMANDO_SECONDARY_DESCRIPTION": "发射一发穿甲弹，对一条直线上的所有敌人造成<style=cIsDamage>230%的伤害</style>。",
+
+            "COMMANDO_SECONDARY_ALT1_NAME": "相位爆破",
+            "COMMANDO_SECONDARY_ALT1_DESCRIPTION": "发射两次近距离爆破，合计造成<style=cIsDamage>8x200%的伤害</style>。",
+
+            "COMMANDO_UTILITY_NAME": "战术俯冲",
+            "COMMANDO_UTILITY_DESCRIPTION": "<style=cIsUtility>翻滚</style>一小段距离。",
+
+            "COMMANDO_SPECIAL_NAME": "火力压制",
+            "COMMANDO_SPECIAL_DESCRIPTION": "快速射击，<style=cIsDamage>眩晕</style>敌人并造成<style=cIsDamage>6x100%的伤害</style>。",
+
+            "COMMANDO_SPECIAL_ALT1_NAME": "碎片杀伤手雷",
+            "COMMANDO_SPECIAL_ALT1_DESCRIPTION": "扔一枚手雷，爆破可造成<style=cIsDamage>175%的伤害。在爆破中心区域</style>造成4倍</style>的伤害。最多扔2枚。",
+
+
+            "COMMANDO_DESCRIPTION": "指挥官是一个全能型角色，任何状况都得心应手。<style=cSub>\r\n\r\n< ! >“双击”无论是在近程还是远程都十分实用，射速较快且能够激活许多物品效果。\r\n\r\n< ! >有效使用战术俯冲是躲避重火力攻击的关键。\r\n\r\n< ! >火力压制既可用于反复眩晕单个敌人，也可一次性眩晕多个敌人。\r\n\r\n< ! >相位子弹能够穿过墙壁，好好利用这点！\r\n</style>\r\n"
+          
+        },
+
+        "MERC": {
+
+
+            "MERC_BODY_NAME": "雇佣兵",
+            "MERC_PRIMARY_NAME": "激光长剑",
+            "MERC_PRIMARY_DESCRIPTION": "向前挥砍，造成<style=cIsDamage>130%的伤害</style>。第三次攻击的范围将会变大并造成<style=cIsDamage>300%的伤害</style>。",
+            "MERC_SECONDARY_NAME": "旋风斩",
+            "MERC_SECONDARY_DESCRIPTION": "快速横斩两次，造成<style=cIsDamage>2x200%的伤害</style>，若位于空中，则改为竖斩。",
+            "MERC_SECONDARY_ALT1_NAME": "酝酿之雷",
+            "MERC_SECONDARY_ALT1_DESCRIPTION": "释放一个裂片上勾拳，造成<style=cIsDamage>450%的伤害</style>，并将你送到半空。",
+            "MERC_UTILITY_NAME": "盲目突击",
+            "MERC_UTILITY_DESCRIPTION": "向前冲锋，<style=cIsUtility>眩晕</style>敌人并造成<style=cIsDamage>300%的伤害</style>。只要命中敌人，<style=cIsDamage>就可以再次发起冲锋</style>，最多<style=cIsDamage>3</style>次。",
+            "MERC_SPECIAL_NAME": "去除内脏",
+            "MERC_SPECIAL_DESCRIPTION": "瞄准距离最近的敌人，攻击被瞄准的敌人可对其重复造成<style=cIsDamage>110%的伤害</style>。<style=cIsUtility>过程中无法被攻击</style>。",
+            "MERC_SPECIAL_ALT1_NAME": "裂片之风",
+            "MERC_SPECIAL_ALT1_DESCRIPTION": "发射一次刀刃之风，最多可对<style=cIsDamage>3</style>名敌人造成<style=cIsDamage>8x100%的伤害</style>。",
+            "MERC_PASSIVE_NAME": "机械强化",
+            "MERC_PASSIVE_DESCRIPTION": "在水星上可<style=cIsUtility>跳跃两次</style>。",
+            "MERC_DESCRIPTION": "雇佣兵是一名近战技艺极为精湛的幸存者，擅长使用多种闪避技能辅助作战。<style=cSub>\r\n\r\n< ! >可在必要时通过旋风斩所产生的气旋再跳跃一次。\r\n\r\n< ! >不断重置盲目突击是提高幸存能力和伤害的关键。无论如何，不要为了重置技能而冲昏头脑，冲动就会送命。\r\n\r\n< ! >谨记，剔骨是一个极为强大的防御型道具，可用于躲避重火力攻击。\r\n\r\n< ! >激光长剑不仅伤害可观，而且范围巨大，是一种极为特别的普通攻击方式。\r\n</style>\r\n"
+           
+          
+        },
+
+
+        "ENGI": {
+            "ENGI_BODY_NAME": "工程师",
+            "ENGI_PRIMARY_NAME": "弹跳手雷",
+            "ENGI_PRIMARY_DESCRIPTION": "为最多<style=cIsDamage>8</style>颗手雷进行充能，每颗均可造成<style=cIsDamage>100%的伤害</style>。",
+            "ENGI_SECONDARY_NAME": "压力地雷",
+            "ENGI_SECONDARY_DESCRIPTION": "放置一枚二阶段地雷，在敌人走近时造成<style=cIsDamage>300%的伤害</style>，或在完全引爆时造成<style=cIsDamage>900%的伤害。</style>最多放置4枚。",
+            "ENGI_SPIDERMINE_NAME": "蜘蛛地雷",
+            "ENGI_SPIDERMINE_DESCRIPTION": "放置一枚机器人地雷，在敌人走近时自动引爆，造成<style=cIsDamage>600%的伤害</style>，最多放置4枚。",
+            "ENGI_UTILITY_NAME": "泡泡护盾",
+            "ENGI_UTILITY_DESCRIPTION": "放置一个<style=cIsUtility>无法穿透的护盾</style>来阻挡伤害。",
+            "ENGI_SPECIAL_NAME": "TR12高斯自动炮塔",
+            "ENGI_SPECIAL_DESCRIPTION": "放置一个<style=cIsUtility>继承你所有物品</style>的炮塔，发射的炮弹可造成<style=cIsDamage>100%的伤害</style>，最多放置2座。",
+            "ENGI_SPECIAL_ALT1_NAME": "TR58碳化器炮塔",
+            "ENGI_SPECIAL_ALT1_DESCRIPTION": "放置一个<style=cIsUtility>移动</style>炮塔可<style=cIsUtility>继承你所有物品。发射的激光可造成<style=cIsDamage>每秒200%的伤害</style>，并可<style=cIsUtility>减速敌人</style>，最多放置2座。",
+            "ENGI_DESCRIPTION": "工程师是一个定位特殊的职业，需要一定的规划能力和摆放技巧。<style=cSub>\r\n\r\n< ! >提前放置地雷能够帮助掩护侧面，封锁敌方路线。\r\n\r\n< ! >工程师极度依赖自己的高斯炮塔 - 记得将它们放置在安全且有利的地形上。\r\n\r\n< ! >他的泡泡护盾可以有效抵挡来自头目的重火力攻击，也可用于保护友方！\r\n\r\n< ! >弹跳手雷尽管威力强大，但是很难击中移动的目标。守住自己的炮塔，以便应对移动迅速或者飞行的敌人！\r\n</style>\r\n"
+        },
+        "HUNTRESS": {
+            "HUNTRESS_BODY_NAME": "女猎人",
+            "HUNTRESS_PRIMARY_NAME": "扫射",
+            "HUNTRESS_PRIMARY_DESCRIPTION": "发射一发跟踪箭，造成<style=cIsDamage>150%的伤害</style>。<style=cIsUtility>可在奔跑时使用</style>。",
+            "HUNTRESS_SECONDARY_NAME": "激光月刃",
+            "HUNTRESS_SECONDARY_DESCRIPTION": "投掷一把追踪月刃，可弹射最多<style=cIsDamage>6</style>次，初始造成<style=cIsDamage>250%的伤害</style>，每次弹射伤害增加<style=cIsDamage>10%</style>。",
+            "HUNTRESS_UTILITY_NAME": "闪现",
+            "HUNTRESS_UTILITY_DESCRIPTION": "<style=cIsUtility>消失</style>并向前<style=cIsUtility>传送</style>。",
+            "HUNTRESS_UTILITY_ALT1_NAME": "相位爆破",
+            "HUNTRESS_UTILITY_ALT1_DESCRIPTION": "<style=cIsUtility>消失</style>并短距离<style=cIsUtility>传送</style>。最多可储存<style=cIsUtility>3</style>次充能。<i>奔跑时可用。</i>",
+            "HUNTRESS_SPECIAL_NAME": "箭雨",
+            "HUNTRESS_SPECIAL_DESCRIPTION": "<style=cIsUtility>传送</style>至空中，向目标区域射下箭雨，使区域内所有敌人<style=cIsUtility>减速</style>，并造成<style=cIsDamage>每秒225%的伤害</style>。",
+            "HUNTRESS_SPECIAL_ALT1_NAME": "石弩",
+            "HUNTRESS_SPECIAL_ALT1_DESCRIPTION": "向后<style=cIsUtility>传送</style>至空中。最多发射<style=cIsDamage>3</style>道能量闪电，造成<style=cIsDamage>3x900%的伤害</style>。",
+            "HUNTRESS_DESCRIPTION": "女猎人是一位身手敏捷但较为脆弱的幸存者，能够提供高伤害输出。<style=cSub>\r\n\r\n< ! >谨记，奔跑时也可使用扫射，使你能一边高速移动，一边消灭潜在威胁。\r\n\r\n< ! >闪现和箭雨既可以用于拉近距离，也可用于在狭窄地形躲避危险。\r\n\r\n< ! >激光月刃可以通过弹射的方式同时攻击两名敌人。\r\n\r\n< ! >箭雨不仅伤害极高，还能减速敌人，对那些生命值较高、移动速度较快的敌人使用吧。</style>\r\n"
+            
+        },
+
+
+        "MAGE": {
+            "MAGE_BODY_NAME": "工匠",
+            "MAGE_PASSIVE_NAME": "环境防护服",
+            "MAGE_PASSIVE_DESCRIPTION": "按住跳跃键可以使工匠<style=cIsUtility>悬浮在空中</style>。",
+
+            "MAGE_PRIMARY_FIRE_NAME": "火炎弹",
+            "MAGE_PRIMARY_FIRE_DESCRIPTION": "发射一道闪电，造成<style=cIsDamage>220%的伤害</style>并<style=cIsDamage>引燃</style>敌人。最多可发射4次。</style>",
+
+            "MAGE_PRIMARY_LIGHTNING_NAME": "等离子弹",
+            "MAGE_PRIMARY_LIGHTNING_DESCRIPTION": "发射一道闪电，造成<style=cIsDamage>220%的伤害</style>并<style=cIsDamage>引爆</style>小片区域。最多发射4次。</style>",
+
+            "MAGE_SECONDARY_LIGHTNING_NAME": "充能完毕的纳米炸弹",
+            "MAGE_SECONDARY_LIGHTNING_DESCRIPTION": "为<style=cIsDamage>爆破</style>纳米炸弹充能，视充能情况造成<style=cIsDamage>400%至1200%</style>的伤害并<style=cIsDamage>眩晕</style>所有敌人。",
+            "MAGE_SECONDARY_ICE_NAME": "攻击纳米枪",
+            "MAGE_SECONDARY_ICE_DESCRIPTION": "为<style=cIsDamage>穿刺</style>纳米枪充能，视充能情况造成<style=cIsDamage>400%至1200%</style>的伤害并<style=cIsUtility>冰冻</style>所有敌人。",
+
+            "MAGE_UTILITY_ICE_NAME": "快速冻结",
+            "MAGE_UTILITY_ICE_DESCRIPTION": "生成一道屏障<style=cIsUtility>冻结</style>敌人，造成<style=cIsDamage>100%伤害。</style>生命值较低的敌人会在被冻结时<style=cIsDamage>会直接死亡。</style>",
+            "MAGE_SPECIAL_FIRE_NAME": "火焰喷射器",
+            "MAGE_SPECIAL_FIRE_DESCRIPTION": "点燃面前所有的敌人，对其造成<style=cIsDamage>1700%的伤害</style>。",
+            "MAGE_SPECIAL_LIGHTNING_NAME": "离子浪涌",
+            "MAGE_SPECIAL_LIGHTNING_DESCRIPTION": "冲到空中，造成<style=cIsDamage>800%的伤害</style>并<style=cIsDamage>眩晕</style>周围敌人。 ",
+            "MAGE_DESCRIPTION": "工匠是一个具备高爆发能力的幸存者，擅长应对群体敌人和头目。<style=cSub>\r\n\r\n< ! >火炎弹虽然射速较快，但充能较慢，请将基础攻击和技能穿插使用。\r\n\r\n< ! >充能完毕的纳米炸弹具有扭转局势的能力。\r\n\r\n< ! >生命值较低的敌人，在被冻结的瞬间就会死去，可以利用这一特点消灭血量较多的敌人。\r\n\r\n< ! >谨记，工匠不具备防御技能，走位和防御道具才是工匠生存的关键！</style>\r\n"
+        
+        },
+
+
+        "TOOLBOT": {
+
+            "TOOLBOT_BODY_NAME": "MUL-T",
+            "TOOLBOT_PASSIVE_NAME": "多功能",
+            "TOOLBOT_PASSIVE_DESCRIPTION": "MUL-T可同时装备<style=cIsUtility>2件装备</style>。可通过<style=cIsDamage>更换工具</style>切换激活的装备。",
+            "TOOLBOT_PRIMARY_NAME": "自动钉枪",
+            "TOOLBOT_PRIMARY_DESCRIPTION": "快速发射钉子，造成<style=cIsDamage>60%的伤害</style>，首次按下可发射<style=cIsDamage>6</style>枚钉子。",
+            "TOOLBOT_PRIMARY_ALT1_NAME": "钢筋发射器",
+            "TOOLBOT_PRIMARY_ALT1_DESCRIPTION": "发射一条具有穿透效果的钢筋，造成<style=cIsDamage>600%的伤害</style>。",
+            "TOOLBOT_PRIMARY_ALT2_NAME": "碎片发射器",
+            "TOOLBOT_PRIMARY_ALT2_DESCRIPTION": "发射一个电弧块，爆破造成<style=cIsDamage>360%的伤害</style>。最多发射4次。",
+            "TOOLBOT_PRIMARY_ALT3_NAME": "强力锯",
+            "TOOLBOT_PRIMARY_ALT3_DESCRIPTION": "锯伤周围敌人，造成<style=cIsDamage>每秒1000%的伤害</style>。",
+            "TOOLBOT_SECONDARY_NAME": "爆破筒",
+            "TOOLBOT_SECONDARY_DESCRIPTION": "发射一罐<style=cIsDamage>眩晕</style>瓦斯，造成<style=cIsDamage>220%的伤害</style>。投掷<style=cIsDamage>眩晕</style>炸弹，造成<style=cIsDamage>5x44%的伤害</style>。",
+            "TOOLBOT_UTILITY_NAME": "运输模式",
+            "TOOLBOT_UTILITY_DESCRIPTION": "急速前进，获得<style=cIsUtility>护甲</style>和<style=cIsUtility>移动速度</style>。对途经的敌人造成<style=cIsDamage>250%的伤害</style>，速度越高，伤害越高。",
+            "TOOLBOT_SPECIAL_NAME": "更换工具",
+            "TOOLBOT_SPECIAL_DESCRIPTION": "依指示同时持有<style=cIsUtility>两件装备</style>。激活'更换工具'可以切换<style=cIsUtility>激活的装备</style>和<style=cIsDamage>MUL-T的主要技能攻击</style>。 ",
+            "TOOLBOT_DESCRIPTION": "MUL-T是一位极具进攻性的幸存者，他所拥有的工具使其能够胜任任何工作！<style=cSub>\r\n\r\n< ! >自动钉枪可造成极高的伤害，但是射程较近，危险又强悍。\r\n\r\n< ! >传送模式既可以用来逃离众多小型怪物的追杀，也可以用来传送至大型怪物身后发动偷袭。\r\n\r\n< ! >爆破筒可以长时间锁定一大群敌人，迫使敌人收缩，方便你和友方进行射击。\r\n\r\n< ! >不断更换工具可加大杀伤：使用钢筋发射器可消灭脆弱的敌人，使用自动钉枪可保持高伤害输出。</style>\r\n"
+         
+
+        },
+
+        "TREEBOT": {
+            "TREEBOT_BODY_NAME": "雷克斯",
+            "TREEBOT_PASSIVE_NAME": "自然毒素",
+            "TREEBOT_PASSIVE_DESCRIPTION": "特定攻击能够造成<style=cIsDamage>弱化</style>，降低移动速度，护甲和伤害。",
+            "TREEBOT_PRIMARY_NAME": "命令：注射",
+            "TREEBOT_PRIMARY_DESCRIPTION": "发射3个注射器，造成<style=cIsDamage>3x80%伤害</style>。最后一个注射器会造成<style=cIsDamage>弱化</style>并<style=cIsHealing>将所施加伤害的60%转化为生命值</style>。",
+            "TREEBOT_SECONDARY_NAME": "种子大炮",
+            "TREEBOT_SECONDARY_DESCRIPTION": "<style=cIsHealth>消耗15%当前生命值</style>。向天空发射一枚炮弹，造成<style=cIsDamage>450%伤害</style>。",
+            "TREEBOT_SECONDARY_ALT1_NAME": "命令：钻孔",
+            "TREEBOT_SECONDARY_ALT1_DESCRIPTION": "向空中发射一串种子子弹雨，降落时造成<style=cIsDamage>每秒450%的伤害</style>。",
+            "TREEBOT_UTILITY_NAME": "命令：驱逐",
+            "TREEBOT_UTILITY_DESCRIPTION": "发射一次音爆，<style=cIsUtility>击退</style>并<style=cIsDamage>弱化</style>所有命中的敌人。如果你正处于空中，会被<style=cIsUtility>向后推去</style>。",
+            "TREEBOT_UTILITY_ALT1_NAME": "树莓齐射",
+            "TREEBOT_UTILITY_ALT1_DESCRIPTION": "<style=cIsHealth>消耗20%当前生命值</style>。发射会<style=cIsUtility>推动</style>并<style=cIsDamage>造成伤害</style>的刺，对所有击中敌人造成<style=cIsDamage>550%伤害</style>。如果你身处半空，则可<style=cIsUtility>将你向后推动</style>。<style=cIsHealing>每命中一个目标便会对你进行一次治疗</style>。",
+            "TREEBOT_SPECIAL_NAME": "触须生长",
+            "TREEBOT_SPECIAL_DESCRIPTION": "<style=cIsHealth>消耗25%当前生命值</style>。发射一朵会<style=cIsDamage>扎根</style>并造成<style=cIsDamage>200%伤害</style>的花朵。<style=cIsHealing>每命中一个目标便会对你进行一次治疗</style>。",
+            "TREEBOT_DESCRIPTION": "雷克斯是一种半机械，半植物的构造体，以生命值为代价从远处攻击敌人。虽然单独的机械和植物都无法在这颗星球上存活下来，但彼此融合之后情况就不一样了。<style=cSub>\r\n\r\n< ! >自然毒素能够对强敌进行削弱，保护你和你的队友。\r\n\r\n< ! >种子大炮可在任何距离使用，而且冷却时间非常短，但要注意你的剩余生命值！\r\n\r\n< ! >命令：驱逐可以用于击退敌人，也能用于将飞行敌人推到墙上，进而造成击杀。\r\n\r\n< ! >精准的触须生长能够增加REX的存活能力，束缚多名敌人就能恢复施放技能消耗的生命值。<style=cSub>\r\n",
+           
+            "TREEBOT_BODY_LORE": "<style=cMono>\r\n//--从 UES 水培湾自动转录 [已编校]--//</style>\r\n\r\n“水培单元状态报告。序列号始于 12ea031lsd095a-“\r\n\r\n“是的，12ea03。已被指派照看卷心菜、莴苣和水菜生长的任务。总共约 250 株植物。状态稳定，但生物量正在减少。我认为微重力出问题了。”\r\n\r\n“留心生物量，我们可能得放弃 12ea03，代之以我们的一个常绿单元。正在继续...序列号 crp012d054jd0-“\r\n\r\n“Crp01 状态良好。已被指派玉米任务。总共约 80 株植物。损失 6 株，减少至 74 株。” \r\n\r\n“我认为，状态可持续。那么...序列号 rex0ch12d66m-“\r\n\r\n“啊，那个单元。对了，它被指派了照看杂交卷心菜的任务。实话实说，情况挺糟糕。我记得我们一开始有 80 个单元，现在已经损失了 79 个。我认为杂交物种移接得不好。无力回天了。”\r\n\r\n“那个单元的状态报告呢？”\r\n\r\n“呃，在外面的观星甲板上。它将最后一株杂交植物成功拉到平台基地后，就一直在船上四处走动，追逐星光。”\r\n\r\n“什么？那个单元离开了水培处？\r\n\r\n“是的，不过 -“\r\n\r\n“所以那个单元脱离了实验计划吗？”\r\n\r\n“是的，不过 -“\r\n\r\n“你竟然没有终止那个单元，反而让它在船上不受监督地四处游荡？”\r\n\r\n“只是团队...唔，我们只是有点为它难过。它拼尽全力让最后一株杂交植物活下来，而且 -“\r\n\r\n“去终止那个单元。”\r\n\r\n“可是，Rex 的表现其实很出色！杂交植物的生物量 -“\r\n\r\n“你是在开玩笑吗？终止那个单元。你根本不清楚机器人脱离实验计划的后果。为了一个游荡的水培单元，你竟然置整个团队的生死于不顾。没什么可商量的。”\r\n\r\n….\r\n\r\n“是，长官！”\r\n<style=cMono>\r\n转录已完成。\r\n</style>\r\n \r\n\r\n"
+        },
+        "LOADER": {
+            "LOADER_BODY_NAME": "装弹手",
+            "LOADER_PASSIVE_NAME": "碎片屏障",
+            "LOADER_PASSIVE_DESCRIPTION": "装弹手对跌落伤害<style=cIsUtility>免疫</style>。使用装弹手的铁手套攻击敌人可获得<style=cIsHealing>临时屏障</style>。",
+            "LOADER_PRIMARY_NAME": "悬臂连接",
+            "LOADER_PRIMARY_DESCRIPTION": "在周围敌人中间穿梭，可造成<style=cIsDamage>320%的伤害</style>。",
+            "LOADER_SECONDARY_NAME": "格斗拳",
+            "LOADER_SECONDARY_DESCRIPTION": "向前发射铁手套，将你<style=cIsUtility>拉</style>向目标。",
+            "LOADER_YANKHOOK_NAME": "刺拳",
+            "LOADER_YANKHOOK_DESCRIPTION": "向前发射铁手套，可造成<style=cIsDamage>320%的伤害</style>，同时<style=cIsDamage>眩晕</style>。将您<style=cIsUtility>拉</style>向重型目标。轻型目标则会被<style=cIsUtility>拉向您</style>。",
+            "LOADER_UTILITY_NAME": "充能铁手套",
+            "LOADER_UTILITY_DESCRIPTION": "为穿透直拳充能，视充能情况可造成<style=cIsDamage>600%-2700%的伤害</style>。<style=cIsUtility>移动的速度越快，造成的伤害越大。</style>",
+            "LOADER_UTILITY_ALT1_NAME": "雷电铁手套",
+            "LOADER_UTILITY_ALT1_DESCRIPTION": "为单次直拳充能，可造成<style=cIsDamage>2100%的伤害</style>，并<style=cIsDamage>震荡</style>锥形区域内的所有敌人，造成<style=cIsDamage>1000%的伤害</style>。<style=cIsUtility>移动的速度越快，造成的伤害越大。</style>",
+            "LOADER_SPECIAL_NAME": "M551电塔",
+            "LOADER_SPECIAL_DESCRIPTION": "扔出飘浮电塔，可<style=cIsDamage>击杀</style>最多<style=cIsDamage>6</style>名周围的敌人，造成<style=cIsDamage>100%的伤害</style>。可被<style=cIsUtility>格挡</style>。",
+            "LOADER_DESCRIPTION": "装弹手是移动慢却实力强大的格斗士，可以用她的爪钩以独特的方式操纵环境。<style=cSub>\r\n\r\n< ! >只要不停出拳，碎片屏障就可以让装弹手持续作战。\r\n\r\n< ! >格斗拳可用于快速穿越、躲避敌人攻击或提升速度以获得巨大的充能铁手套伤害提升！\r\n\r\n< ! >充能铁手套既可用于拉近距离，又可成为对周围敌人强有力的终结动作。\r\n\r\n< ! >请记住，M551电塔可作为格斗点供您和您的装弹手友方使用。</style>\r\n"
+           
+        },
+
+        "CROCO": {
+            "CROCO_BODY_NAME": "呛鼻毒师",
+            "CROCO_PASSIVE_NAME": "毒化",
+            "CROCO_PASSIVE_DESCRIPTION": "特定攻击能够<style=cIsHealing>毒化</style>敌人，造成相当于敌人<style=cIsHealing>10%</style><style=cIsHealing>最大生命值</style>的持续伤害。<style=cIsHealing>毒化</style>无法杀死敌人。",
+            "CROCO_PRIMARY_NAME": "恶性创伤",
+            "CROCO_PRIMARY_DESCRIPTION": "袭击一名敌人，造成<style=cIsDamage>200%的伤害</style>。第三次命中会造成<style=cIsDamage>400%的伤害</style>。",
+            "CROCO_SECONDARY_NAME": "神经毒素",
+            "CROCO_SECONDARY_DESCRIPTION": "喷吐毒汁，造成<style=cIsDamage>240%的伤害</style>，并<style=cIsHealing>毒化</style>命中的敌人。",
+            "CROCO_UTILITY_NAME": "腐蚀跳跃",
+            "CROCO_UTILITY_DESCRIPTION": "跳跃到半空，造成<style=cIsDamage>320%的伤害</style>，并可<style=cIsDamage>眩晕</style>和<style=cIsHealing>毒化</style>受击的敌人。留下一池毒酸，可造成<style=cIsDamage>25%的伤害</style>。",
+            "CROCO_UTILITY_ALT1_NAME": "狂躁跳跃",
+            "CROCO_UTILITY_ALT1_DESCRIPTION": "跳跃到半空，造成<style=cIsDamage>550%的伤害</style>，并可<style=cIsDamage>眩晕</style>受击的敌人。每命中一名敌人，可<style=cIsUtility>缩减</style><style=cIsUtility>2秒</style>的冷却时间。",
+            "CROCO_SPECIAL_NAME": "传染",
+            "CROCO_SPECIAL_DESCRIPTION": "释放致命毒液，造成<style=cIsDamage>100%的伤害</style>并<style=cIsHealing>毒化</style>敌人。该状态可继续扩散至最多<style=cIsDamage>20</style>个目标。",
+            "CROCO_DESCRIPTION": "呛鼻毒师是使用强力毒液融化厚血量敌人的近战杂交物种。<style=cSub>\r\n\r\n< ! >毒化可造成威力极强的持续伤害，所以请尽可能频繁地使用！\r\n\r\n< ! >毒化可让敌人生命值为1，因此请优先使用可以帮助消灭他们的物品和无人机。\r\n\r\n< ! >由于呛鼻毒师没有天然防御，采用打完就跑的战术可以保命。\r\n\r\n< ! >神经毒素的冷却时间非常短，必要时可以帮助呛鼻毒师发挥远程角色的威力。\r\n</style>"
+        }
+
+    }
+}
